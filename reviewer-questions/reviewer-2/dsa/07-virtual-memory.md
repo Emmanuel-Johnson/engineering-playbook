@@ -1,0 +1,3 @@
+- Virtual memory is a memory management technique where part of the hard disk is used like RAM.
+- It allows programs to run even when physical memory is low.
+- It increases multitasking but is slower than actual RAM.

@@ -1,0 +1,3 @@
+- Stack memory stores function calls and local variables.
+- Heap memory stores dynamically created data and objects.
+- Stack is faster and automatic, while heap is larger but needs memory management.

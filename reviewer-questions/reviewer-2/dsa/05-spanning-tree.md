@@ -1,0 +1,3 @@
+- A spanning tree is a subgraph that connects all vertices in a graph without forming cycles.
+- For a graph with n vertices, a spanning tree has n - 1 edges.
+- It is used to connect all nodes with the minimum required connections.

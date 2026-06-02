@@ -12,7 +12,7 @@ Python
 [x] What is a generator 
 [x] Duck typing 
 [x] Find vowels 
-[ ] Rotate the list by k positions
+[x] Rotate the list by k positions
 
 Django
 
@@ -59,20 +59,20 @@ SQL
 
 DSA
 
-[ ] Jagged array 
-[ ] Heap memory - read more 
-[ ] How to calculate load factor 
-[ ] Types of Trie 
-[ ] Spanning tree 
+[x] Jagged array 
+[x] Heap memory - read more 
+[x] How to calculate load factor 
+[x] Types of Trie 
+[x] Spanning tree 
 [x] Shortest path algorithms 
 
-[ ] Virtual memory 
-[ ] Stack and heap memory 
-[ ] Adjacency matrix vs adjacency list 
-[ ] Spanning tree 
-[ ] Types of trie 
-[ ] Applications of BST 
-[ ] Print Fibonacci series 
+[x] Virtual memory 
+[x] Stack and heap memory 
+[x] Adjacency matrix vs adjacency list 
+[x] Spanning tree 
+[x] Types of trie 
+[x] Applications of BST 
+[x] Print Fibonacci series 
 
 React
 

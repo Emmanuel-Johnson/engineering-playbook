@@ -1,0 +1,3 @@
+- Adjacency Matrix stores graph connections in a 2D array, so checking an edge is fast but uses more memory.
+- Adjacency List stores only connected nodes in lists, so it saves memory and works better for sparse graphs.
+- Matrix is better for dense graphs, while list is better for large sparse graphs.

@@ -1,0 +1,3 @@
+- A jagged array is an array where each row can have a different number of elements.
+- Unlike a normal 2D array, all rows do not need the same size.
+- Example: [[1, 2], [3, 4, 5], [6]]

@@ -1,0 +1,5 @@
+- Standard Trie — Stores words character by character for fast search and prefix matching.
+- Compressed Trie (Radix Trie) — Merges single-child paths to save memory.
+- Suffix Trie — Stores all suffixes of a string for fast pattern searching.
+- Ternary Search Trie — Uses 3 pointers per node for memory-efficient string storage.
+- Binary Trie — Stores binary numbers bit by bit, mainly used for XOR and bit operations.
