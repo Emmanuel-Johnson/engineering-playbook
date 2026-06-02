@@ -39,21 +39,21 @@ Django
 
 SQL
 
-[ ] Clustered index 
-[ ] char vs varchar 
-[ ] Window functions 
-[ ] Types of triggers 
-[ ] Transitive dependency 
+[x] Clustered index 
+[x] char vs varchar 
+[x] Window functions 
+[x] Types of triggers 
+[x] Transitive dependency 
 [ ] Find the most recent hire in each department 
 [ ] Increase salary by x percent where department = 'HR' 
 
-[ ] Types of triggers 
-[ ] BLOB 
-[ ] Entities 
-[ ] SQL injection 
-[ ] Clustered index 
-[ ] Composite key 
-[ ] Scalar functions 
+[x] Types of triggers 
+[x] BLOB 
+[x] Entities 
+[x] SQL injection 
+[x] Clustered index 
+[x] Composite key 
+[x] Scalar functions 
 [ ] Increase salary by x percent for department = HR 
 [ ] Find departments with more than two employees 
 
@@ -73,6 +73,7 @@ DSA
 [x] Types of trie 
 [x] Applications of BST 
 [x] Print Fibonacci series 
+[ ] Find the middle element of a doubly linked list
 
 React
 

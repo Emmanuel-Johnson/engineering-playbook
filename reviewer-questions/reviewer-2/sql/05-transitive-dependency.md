@@ -1,0 +1,3 @@
+- A transitive dependency happens when a non-key column depends on another non-key column instead of directly depending on the primary key.
+- This can cause data duplication and update issues in a table.
+- It is usually removed by normalizing the table to Third Normal Form (3NF).

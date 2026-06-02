@@ -1,0 +1,3 @@
+- A clustered index stores table data physically in sorted order based on the indexed column.
+- A table can have only one clustered index because data can be sorted in only one way.
+- It improves fast searching and range-based queries.

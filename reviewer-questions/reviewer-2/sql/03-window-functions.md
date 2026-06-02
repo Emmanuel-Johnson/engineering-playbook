@@ -1,0 +1,4 @@
+- Window functions perform calculations across a group of rows without combining them into one result.
+- They are used for ranking, running totals, averages, and comparisons between rows.
+- Common functions include ROW_NUMBER(), RANK(), and SUM() OVER().
+- GROUP BY returns one row per group, while a window function shows that grouped calculation on every related row.

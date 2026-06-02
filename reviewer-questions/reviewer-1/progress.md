@@ -32,7 +32,7 @@ SQL
 [x] What is a materialized view? 
 [x] What is a recursive CTE? 
 [x] What is replication? 
-[ ] Create a CTE to display customers with pending shipment. 
+[x] Create a CTE to display customers with pending shipment. 
 
 DSA
 

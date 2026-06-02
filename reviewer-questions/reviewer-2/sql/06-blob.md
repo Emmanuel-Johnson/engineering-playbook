@@ -1,0 +1,3 @@
+- BLOB stands for Binary Large Object.
+- It is used to store large binary data like images, videos, audio, or files in a database.
+- BLOB stores data in binary format instead of normal text.

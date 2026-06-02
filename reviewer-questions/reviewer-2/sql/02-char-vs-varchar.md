@@ -1,0 +1,3 @@
+- CHAR stores fixed-length data, so it always uses the full allocated space.
+- VARCHAR stores variable-length data, so it uses only the needed space.
+- CHAR is faster for fixed-size values, while VARCHAR is better for flexible text data.

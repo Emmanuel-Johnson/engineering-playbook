@@ -1,0 +1,3 @@
+- Entities are real-world objects or concepts stored in a database, like Student, Employee, or Product.
+- Each entity has attributes that describe it, such as name, ID, or age.
+- In DBMS, entities are usually represented as tables.

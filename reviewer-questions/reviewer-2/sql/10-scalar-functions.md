@@ -1,0 +1,3 @@
+- Scalar functions take one value as input and return one value as output for each row.
+- They are used to perform calculations or modify data like UPPER(), LOWER(), ROUND(), and LEN().
+- They can be used in SELECT, WHERE, and other SQL clauses.

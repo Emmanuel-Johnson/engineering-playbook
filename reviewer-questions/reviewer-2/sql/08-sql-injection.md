@@ -1,0 +1,3 @@
+- SQL Injection is a security attack where malicious SQL code is inserted into user input to access or manipulate database data.
+- It usually happens when input is not validated properly.
+- We can prevent it using prepared statements, parameterized queries, and input validation.

@@ -1,0 +1,3 @@
+- Triggers in DBMS are mainly of two types: Before Trigger and After Trigger.
+- Before Trigger runs before an insert, update, or delete operation, while After Trigger runs after the operation is completed.
+- They are used to automate tasks, validation, and logging in the database.
