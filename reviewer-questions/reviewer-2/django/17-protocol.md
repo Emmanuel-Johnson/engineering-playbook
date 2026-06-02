@@ -1,0 +1,3 @@
+- A protocol is a set of rules that defines how data is sent and received over a network.
+- It helps devices communicate correctly, like HTTP for websites and FTP for file transfer.
+- Without protocols, devices cannot understand each other’s data.

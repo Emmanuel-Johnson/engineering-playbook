@@ -1,0 +1,3 @@
+- Form → only handles user input and validation.
+- ModelForm → handles input + validation + database saving using a model.
+- ModelForm automatically creates fields from the model, but Form requires manual field creation.

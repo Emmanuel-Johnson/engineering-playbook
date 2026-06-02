@@ -1,0 +1,3 @@
+- Django is heavy for small projects because it comes with many built-in features.
+- It can be slower than lightweight frameworks for high-performance applications.
+- Django’s strict structure gives less flexibility compared to some other frameworks.

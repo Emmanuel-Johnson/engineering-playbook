@@ -1,0 +1,3 @@
+- Django Signals are used to run some code automatically when an event happens, like saving or deleting a model.
+- They help separate extra logic from the main code using signal handlers.
+- Common signals are post_save, pre_save, and post_delete.

@@ -1,0 +1,3 @@
+- A preflight request is a browser request sent before the actual API call to check if the server allows cross-origin requests (CORS).
+- It usually uses the OPTIONS method and checks allowed methods, headers, and origins.
+- This improves security before sending the real request.

@@ -1,0 +1,3 @@
+- In Django, F objects are used to compare or update model fields directly in the database without loading data into Python.
+- Q objects are used to write complex queries with OR, AND, and NOT conditions.
+- They help make database queries more efficient and flexible.

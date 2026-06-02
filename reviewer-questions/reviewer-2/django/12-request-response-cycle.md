@@ -1,0 +1,3 @@
+- In Django, the browser sends a request to the server, Django processes it through URLs, views, and models, then returns a response.
+- The response can be an HTML page, JSON data, or an error message shown to the user.
+- Middleware works between the request and response to handle tasks like authentication, security, and sessions.

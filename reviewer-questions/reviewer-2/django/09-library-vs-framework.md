@@ -1,0 +1,3 @@
+- A library is a collection of reusable code that we call when needed.
+- A framework gives the overall structure of the application and controls the flow.
+- In short: with a library we control the code, with a framework the framework controls the flow.

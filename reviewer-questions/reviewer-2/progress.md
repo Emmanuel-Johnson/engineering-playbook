@@ -24,18 +24,18 @@ Django
 [x] Web server vs application server 
 [x] Field validations 
 
-[ ] Django form to collect data 
-[ ] Library vs framework 
-[ ] Cons of Django 
-[ ] ModelForm vs Django Form 
+[x] Django form to collect data 
+[x] Library vs framework 
+[x] Cons of Django 
+[x] ModelForm vs Django Form 
 [x] authenticate() vs login() 
-[ ] Request-response cycle in Django 
+[x] Request-response cycle in Django 
 [x] Types of model inheritance 
-[ ] Signals in Django 
-[ ] F and Q objects 
-[ ] Preflight request 
-[ ] What is a port 
-[ ] What is a protocol 
+[x] Signals in Django 
+[x] F and Q objects 
+[x] Preflight request 
+[x] What is a port 
+[x] What is a protocol 
 
 SQL
 
