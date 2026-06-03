@@ -44,8 +44,8 @@ SQL
 [x] Window functions 
 [x] Types of triggers 
 [x] Transitive dependency 
-[ ] Find the most recent hire in each department 
-[ ] Increase salary by x percent where department = 'HR' 
+[x] Find the most recent hire in each department 
+[x] Increase salary by x percent where department = 'HR' 
 
 [x] Types of triggers 
 [x] BLOB 
@@ -54,8 +54,8 @@ SQL
 [x] Clustered index 
 [x] Composite key 
 [x] Scalar functions 
-[ ] Increase salary by x percent for department = HR 
-[ ] Find departments with more than two employees 
+[x] Increase salary by x percent for department = HR 
+[x] Find departments with more than two employees 
 
 DSA
 
@@ -73,7 +73,7 @@ DSA
 [x] Types of trie 
 [x] Applications of BST 
 [x] Print Fibonacci series 
-[ ] Find the middle element of a doubly linked list
+[x] Find the middle element of a doubly linked list
 
 React
 
@@ -91,7 +91,7 @@ React
 [x] What exactly is an action creator 
 [x] What is reconciliation 
 [x] Use of Redux DevTools 
-[ ] Create a Redux component for a todo app - partially done 
+[x] Create a Redux component for a todo app - partially done 
 [x] Create toggle buttons 
 [x] One-way data binding 
 [x] Viewport vs resolution 
