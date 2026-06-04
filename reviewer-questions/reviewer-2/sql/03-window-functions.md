@@ -2,3 +2,4 @@
 - They are used for ranking, running totals, averages, and comparisons between rows.
 - Common functions include ROW_NUMBER(), RANK(), and SUM() OVER().
 - GROUP BY returns one row per group, while a window function shows that grouped calculation on every related row.
+- For each row, SQL opens a temporary window of related rows, performs a calculation, and then puts the result back on the current row
