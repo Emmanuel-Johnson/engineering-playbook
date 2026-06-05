@@ -14,6 +14,10 @@ Python
 [x] Find vowels 
 [x] Rotate the list by k positions
 
+[x] Explain Python's memory management.
+[x] What are lambda functions?
+[x] What are *args and **kwargs?
+
 Django
 
 [x] authenticate() vs login() 
@@ -37,6 +41,10 @@ Django
 [x] What is a port 
 [x] What is a protocol 
 
+[x] What is the difference between Django and Flask?
+[x] What is JWT Authentication?
+[x] What is CORS?
+
 SQL
 
 [x] Clustered index 
@@ -57,6 +65,11 @@ SQL
 [x] Increase salary by x percent for department = HR 
 [x] Find departments with more than two employees 
 
+[x] Types of triggers
+[x] SQL injection
+[x] Clustered index
+[x] Composite key
+
 DSA
 
 [x] Jagged array 
@@ -74,6 +87,13 @@ DSA
 [x] Applications of BST 
 [x] Print Fibonacci series 
 [x] Find the middle element of a doubly linked list
+
+[x] Stack and heap memory
+[x] Adjacency matrix  vs adjacency list
+[x] Spanning tree
+[x] Types of trie
+[x] Applications of BST
+[x] Check whether a tree is balanced.
 
 React
 
@@ -96,3 +116,7 @@ React
 [x] One-way data binding 
 [x] Viewport vs resolution 
 [x] ESModules vs CommonJS 
+
+[x] Difference between useEffect and useLayoutEffect.
+[x] What is code splitting?
+[x] Build a stopwatch using hooks.

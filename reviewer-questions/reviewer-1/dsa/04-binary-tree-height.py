@@ -121,6 +121,23 @@ class BinarySearchTree:
         if node is None:
             return -1
         return 1 + max(self._height(node.left), self._height(node.right))
+        
+    # ---------------- Balanced ----------------
+    def is_balanced(self):
+        return self.is_height(self.root) != -1
+        
+    def is_height(self, node):
+        if node is None:
+            return 0
+        left = self.is_height(node.left)
+        if left == -1:
+            return -1
+        right = self.is_height(node.right)
+        if right == -1:
+            return -1
+        if abs(left - right) > 1:
+            return -1
+        return 1 + max(left, right)
 
     # ---------------- BFS ----------------
     def bfs(self):
@@ -147,6 +164,8 @@ bst.insert(3)
 bst.insert(10)
 bst.insert(20)
 bst.insert(30)
+
+print(bst.is_balanced())
 
 print("Inorder:", bst.inorder())
 print("Preorder:", bst.preorder())

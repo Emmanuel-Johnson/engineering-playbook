@@ -1,0 +1,3 @@
+- Code splitting means breaking a large application into smaller JavaScript files that load only when needed.
+- It improves performance and reduces initial loading time.
+- In React, it is commonly done using React.lazy() and Suspense.

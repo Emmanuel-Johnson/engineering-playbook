@@ -1,0 +1,4 @@
+- Django is a full-featured framework with built-in tools like authentication, admin panel, and ORM, so it is best for large applications.
+- Flask is a lightweight micro-framework that gives more flexibility and is best for small or custom projects.
+- Django follows an “all-in-one” approach, while Flask lets developers choose components manually.
+- Django is faster for development, while Flask is simpler and easier to learn.

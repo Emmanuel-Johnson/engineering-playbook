@@ -1,0 +1,3 @@
+- Python uses automatic memory management through reference counting and a garbage collector.
+- When an object has no references, Python frees its memory automatically.
+- The garbage collector removes circular reference objects that reference counting cannot clean.

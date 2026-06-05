@@ -1,0 +1,3 @@
+- *args allows a function to accept multiple positional arguments as a tuple.
+- **kwargs allows a function to accept multiple keyword arguments as a dictionary.
+- They make functions flexible and able to handle different numbers of inputs.

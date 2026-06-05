@@ -1,0 +1,3 @@
+- CORS (Cross-Origin Resource Sharing) is a security feature in browsers that controls requests between different websites or domains.
+- It allows or blocks access to resources based on server permissions.
+- It helps protect web applications from unauthorized requests.

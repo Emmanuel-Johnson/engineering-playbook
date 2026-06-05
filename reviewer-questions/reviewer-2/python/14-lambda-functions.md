@@ -1,0 +1,3 @@
+- Lambda functions are small anonymous functions written in a single line using the lambda keyword.
+- They can take multiple arguments but contain only one expression.
+- They are mainly used for short operations with functions like map(), filter(), and sort().

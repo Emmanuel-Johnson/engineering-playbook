@@ -1,0 +1,3 @@
+- JWT Authentication uses a token to verify and identify users after login.
+- The server creates a signed JWT token, and the client sends it with each request for authentication.
+- It is stateless, fast, and commonly used in APIs and web applications.

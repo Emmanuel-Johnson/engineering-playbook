@@ -1,0 +1,3 @@
+- useEffect runs after the UI is painted on the screen, so it’s used for API calls, timers, and side effects.
+- useLayoutEffect runs before the screen updates visually, so it’s used when you need to measure or change the DOM immediately.
+- useLayoutEffect can block painting, so use it only when necessary.
