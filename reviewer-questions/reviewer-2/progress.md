@@ -18,6 +18,54 @@ Python
 [x] What are lambda functions?
 [x] What are *args and **kwargs?
 
+[ ] how reference counting works
+[ ] thread vs process
+[ ] monkey patching
+[ ] need for GIL
+[ ] Python assert statement
+[ ] NameError vs TypeError
+[ ] currying
+[ ] remove each digit one by one recursively
+
+[ ] NameError
+[ ] Stack trace
+[ ] Pure functions
+[ ] nonlocal keyword
+[ ] Python context managers
+[ ] assert statement
+[ ] pycache directory
+[ ] Monkey patching
+[ ] Practice more problems
+[ ] Replace "scores" in a dictionary with its average
+[ ] Replace a dictionary key with a calculated value
+[ ] Rotate a list to the right by k places
+
+[ ] longest non-repeating substring
+[ ] method overloading in python
+[ ] custom iterator to skip every second element from list
+[ ] duck typing
+[ ] class method and static method
+
+[ ] lambda function to return rand number
+[ ] is and ==
+[ ] Python handle environment variables
+[ ] PIP
+[ ] thread vs process
+[ ] Need of GIL
+[ ] for-else Pattern
+[ ] Type Annotations
+
+[ ] __pycache__  
+[ ] Python’s context managers  
+[ ] Data Class  
+[ ] GIL (Global Interpreter Lock)  
+[ ] Tools for Debugging Python  
+[ ] Pure vs Impure Functions  
+[ ] Stack Trace  
+[ ] Duck Typing  
+[ ] Time methods and operations  
+[ ] Flatten list  
+
 Django
 
 [x] authenticate() vs login() 
@@ -45,6 +93,54 @@ Django
 [x] What is JWT Authentication?
 [x] What is CORS?
 
+[ ] Django form and field validation
+[ ] authenticate vs login
+[ ] What is Celery
+[ ] Handling circular imports in Django
+[ ] Types of model inheritance in Django
+[ ] How the ORM prevents SQL injection
+[ ] select_for_update
+[ ] HTTP 300 status code
+
+[ ] cons of Django - need more points
+[ ] query and path parameters use cases
+[ ] examples of mixins
+[ ] request handling
+[ ] field validation
+
+[ ] what is a framework ?
+[ ] cons of django
+[ ] admin.py usage
+[ ] ModelForm
+[ ] query and path parms - need more clarity
+[ ] csrf attack and csrf token prevent it
+[ ] mixins
+[ ] web server vs app server
+[ ] rate limiting
+[ ] content negotiation
+[ ] reverse proxy vs proxy
+[ ] preflight
+[ ] class based view implementation
+[ ] field validations,regex expressions,etc
+
+[ ] ModelForm  
+[ ] Generic Views  
+[ ] CSRF Token vs CORS  
+[ ] select_related and prefetch_related  
+[ ] unique_together  
+[ ] Serializers  
+[ ] Mixins  
+[ ] @staticmethod vs @classmethod in Django  
+[ ] Handling circular imports in Django  
+[ ] Django Channels  
+[ ] POST URL and getting values from requests (validation)  
+[ ] Gunicorn  
+[ ] Rate limiting  
+[ ] Proxy vs Reverse Proxy  
+[ ] HTTP 401 vs 400  
+[ ] Webhook & Webserver  
+[ ] IPv4 vs IPv6  
+
 SQL
 
 [x] Clustered index 
@@ -69,6 +165,40 @@ SQL
 [x] SQL injection
 [x] Clustered index
 [x] Composite key
+
+[ ] Entity
+[ ] Scalar functions
+[ ] Window functions
+[ ] BLOB
+[ ] Transitive dependency
+[ ] Disadvantages of indexing
+[ ] Find the second highest paid employees from each department
+
+[ ] what is SQL
+[ ] RDBMS vs NoSQL
+[ ] cons of RDBMS - need more clarity
+[ ] clustered index
+[ ] types of indexing
+[ ] window functions
+[ ] retrieve employees with salaries higher than the average salary of their department
+[ ] create index
+
+[ ] cons of RDMS
+[ ] char vs varchar
+[ ] cons of DB trigger
+[ ] cons of indexing - needs improvement
+[ ] SQL queries with joins,multiple joins,etc
+[ ] order of execution
+
+[ ] Types of NoSQL  
+[ ] ACID Properties  
+[ ] 3-Schema Architecture  
+[ ] Scalar Functions  
+[ ] Views  
+[ ] Triggers  
+[ ] How Indexing Works  
+[ ] SQL queries with multiple joins, string functions, and aggregate functions
+[ ] Insert statement syntax Show less
 
 DSA
 
@@ -95,6 +225,43 @@ DSA
 [x] Applications of BST
 [x] Check whether a tree is balanced.
 
+[ ] sorting in a doubly linked list
+[ ] types of memory allocation
+[ ] stack vs heap memory
+[ ] how to find a memory leak
+[ ] string permutations
+
+[ ] Display a BST in tree format
+[ ] Virtual memory
+[ ] Jagged array
+[ ] Types of memory allocation
+[ ] Memory leak in Python
+[ ] Escape sequences
+[ ] Bit vs byte
+[ ] Adjacency matrix and adjacency list
+
+[ ] space complexity calculation
+[ ] virtual memory
+[ ] find memory leaks
+[ ] time complexity of stack operations
+[ ] advantages of static memory allocation
+[ ] priority queue implementation
+[ ] tree with n children controlling thier sizes if size is two binary tree is size is three ternary tree etc
+
+[ ] virtual memory
+[ ] stack and heap memory
+[ ] jagged array vs multi dimensional array
+[ ] linear probing and double hashing
+[ ] types of tries - need more clarity
+[ ] self balancing tree
+[ ] sort array using heap sort
+
+[ ] Load Factor  
+[ ] BT vs BST vs AVL  
+[ ] Tree vs Trie  
+[ ] B-Tree  
+[ ] Find Cycle in Graph  
+
 React
 
 [x] Rules of Hooks 
@@ -120,3 +287,38 @@ React
 [x] Difference between useEffect and useLayoutEffect.
 [x] What is code splitting?
 [x] Build a stopwatch using hooks.
+
+[ ] toggle button with logging
+[ ] resolution view
+[ ] React element vs component
+[ ] ES modules vs CommonJS
+[ ] hooks inside conditionals
+[ ] useHistory vs useNavigate
+
+[ ] Component that calculates the sum of numbers and optimizes the computation using useMemo
+[ ] Disadvantages of SPA
+[ ] Difference between a React element and a component
+[ ] Transpilation
+[ ] Polyfill
+[ ] Referential equality
+[ ] Limitations of useCallback
+[ ] Middleware in Redux
+[ ] Batching in React
+
+[ ] cons of SPA
+[ ] stopwatch implementation
+
+[ ] SVG vs PNG
+[ ] batching
+[ ] BrowserRouter vs MemoryRouter
+[ ] stop watch implementation
+
+[ ] Implement counter with start and stop button  
+[ ] CSR vs SSR  
+[ ] Dynamic Rendering  
+[ ] Error Boundary  
+[ ] Event Pooling  
+[ ] Synthetic Events  
+[ ] MemoryRouter  
+[ ] BrowserRouter  
+[ ] Context API  
