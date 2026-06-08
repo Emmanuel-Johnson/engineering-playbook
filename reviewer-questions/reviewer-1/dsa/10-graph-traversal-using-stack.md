@@ -1,0 +1,3 @@
+- Depth First Search (DFS) is the graph traversal method that uses a stack.
+- It explores one path completely before moving to another path.
+- DFS can use either an explicit stack or the recursion call stack.

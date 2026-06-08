@@ -1,0 +1,3 @@
+- A SQL View is a virtual table created using a SELECT query.
+- It stores the query, not the actual data, and shows data from one or more tables.
+- Views are used for security, simplicity, and reusable queries.

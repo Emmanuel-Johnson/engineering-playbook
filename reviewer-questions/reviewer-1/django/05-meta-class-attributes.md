@@ -1,0 +1,3 @@
+- In Django, Meta class attributes are used to configure model behavior without changing fields.
+- They define options like table name, ordering, verbose name, and unique constraints.
+- Example: ordering, db_table, and unique_together are common Meta attributes.

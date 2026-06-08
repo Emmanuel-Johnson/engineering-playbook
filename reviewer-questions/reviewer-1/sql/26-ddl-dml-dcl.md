@@ -1,0 +1,3 @@
+- DDL (Data Definition Language): Used to create or change database structure. Examples: CREATE, ALTER, DROP.
+- DML (Data Manipulation Language): Used to add, update, delete, or read data. Examples: INSERT, UPDATE, DELETE, SELECT.
+- DCL (Data Control Language): Used to control user access and permissions. Examples: GRANT, REVOKE.

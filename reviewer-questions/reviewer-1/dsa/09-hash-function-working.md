@@ -1,0 +1,3 @@
+- A hash function converts a key into an index number using a mathematical formula.
+- This index decides where the data is stored in a hash table for fast access.
+- It helps searching, insertion, and deletion work in near O(1) time.

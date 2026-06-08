@@ -1,0 +1,3 @@
+- Insertion at beginning: O(1)
+- Deletion at beginning: O(1)
+- Insertion/deletion at middle or end and searching: O(n) because traversal is needed.

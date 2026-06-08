@@ -1,0 +1,3 @@
+- A composite key is a key made using two or more columns together to uniquely identify a record in a table.
+- It is used when a single column alone cannot provide unique identification.
+- Example: student_id + course_id together in an enrollment table.

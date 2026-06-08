@@ -1,0 +1,3 @@
+- An entity is a real-world object or thing stored in a database.
+- It can be a person, product, employee, or department.
+- In DBMS, entities are usually represented as tables.

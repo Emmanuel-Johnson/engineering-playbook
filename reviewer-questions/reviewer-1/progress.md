@@ -13,21 +13,21 @@ Python
 [x] What is the difference between multithreading and multiprocessing? 
 [x] Create a decorator to calculate the execution time of a function. 
 
-[ ] class method vs static method
-[ ] use of else in exception
-[ ] mandatory module in a packages
-[ ] how many args can be passed to lambda function
-[ ] Create generator count upto 1 to n
-[ ] Create squares of list using map and lambda function
+[x] class method vs static method
+[x] use of else in exception
+[x] mandatory module in a packages
+[x] how many args can be passed to lambda function
+[x] Create generator count upto 1 to n
+[x] Create squares of list using map and lambda function
 
-[ ] Duck typing
-[ ] Decorators
-[ ] Decorator to measure the execution time of a function
-[ ] List character count in descending order from a string
+[x] Duck typing
+[x] Decorators
+[x] Decorator to measure the execution time of a function
+[x] List character count in descending order from a string
 
-[ ] created a nested dict
-[ ] a function to sum integers from a nested list
-[ ] print an inverted pyramid
+[x] created a nested dict
+[x] a function to sum integers from a nested list
+[x] print an inverted pyramid
 
 Django
 
@@ -36,10 +36,10 @@ Django
 [x] Which are the types of model inheritance? 
 [x] Which status code is used for a bad request? 
 
-[ ] abstractuser vs abstractbaseuser exact concept
-[ ] prefetch related vs select related exact concept
-[ ] meta class attributes
-[ ] Raw method vs cursor method
+[x] abstractuser vs abstractbaseuser exact concept
+[x] prefetch related vs select related exact concept
+[x] meta class attributes
+[x] Raw method vs cursor method
 
 [ ] Django form implementation
 [ ] Request response cycle and middleware
@@ -64,27 +64,27 @@ SQL
 [x] What is replication? 
 [x] Create a CTE to display customers with pending shipment. 
 
-[ ] what is composite key
-[ ] Find employees who are in the ‘It’ department.
-[ ] Count how many employees each manager have.
+[x] what is composite key
+[x] Find employees who are in the ‘It’ department.
+[x] Count how many employees each manager have.
 
-[ ] Cons of RDBMS
-[ ] Clustered index
-[ ] Scalar functions
-[ ] Entities
-[ ] Cons of database triggers
-[ ] Find average salary for each department
-[ ] Create index
-[ ] Increase salary by x percent for department = HR
+[x] Cons of RDBMS
+[x] Clustered index
+[x] Scalar functions
+[x] Entities
+[x] Cons of database triggers
+[x] Find average salary for each department
+[x] Create index
+[x] Increase salary by x percent for department = HR
 
-[ ] create employee and department tables with foreign key relations- learn the syntax properly
-[ ] employees with more than 6month experience- date operations
-[ ] department name and average salaries- basic join operation
+[x] create employee and department tables with foreign key relations- learn the syntax properly
+[x] employees with more than 6month experience- date operations
+[x] department name and average salaries- basic join operation
 
-[ ] Left join
-[ ] Sql view
-[ ] 2NF , 3NF
-[ ] DDL, DML DCL
+[x] Left join
+[x] Sql view
+[x] 2NF , 3NF
+[x] DDL, DML DCL
 
 DSA
 
@@ -96,11 +96,11 @@ DSA
 [x] Which are the common time complexities? 
 [x] What is load factor in a hash table? 
 
-[ ] Linked list operations time complexity
-[ ] What is base case in recursion
-[ ] Hash function working concept
-[ ] which graph traversal method implements using stack
-[ ] Create a max heap and display the element
+[x] Linked list operations time complexity
+[x] What is base case in recursion
+[x] Hash function working concept
+[x] which graph traversal method implements using stack
+[x] Create a max heap and display the element
 
 React
 
@@ -123,4 +123,4 @@ React
 
 [ ] react.memo working concept
 [ ] react.lazy
-[ ] create a react component to add two numbers
+[x] create a react component to add two numbers

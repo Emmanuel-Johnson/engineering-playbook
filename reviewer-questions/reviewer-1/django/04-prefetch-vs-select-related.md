@@ -1,0 +1,3 @@
+- select_related is used for ForeignKey or OneToOne fields and performs an SQL JOIN to get related data in a single query.
+- prefetch_related is used for ManyToMany or reverse relations and performs separate queries, then combines data in Python.
+- select_related is faster for single relations, while prefetch_related is better for multiple related objects.

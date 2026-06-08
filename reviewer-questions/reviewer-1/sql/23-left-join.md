@@ -1,0 +1,3 @@
+- A LEFT JOIN returns all records from the left table and matching records from the right table.
+- If there is no match, the right table values become NULL.
+- It is used when you want all data from the main table, even without matches.

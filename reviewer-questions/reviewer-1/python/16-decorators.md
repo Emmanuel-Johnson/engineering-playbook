@@ -1,0 +1,3 @@
+- A decorator is a function that adds extra behavior to another function without changing its original code.
+- It is commonly used for logging, authentication, timing, and validation.
+- In Python, decorators are applied using the @decorator_name syntax.

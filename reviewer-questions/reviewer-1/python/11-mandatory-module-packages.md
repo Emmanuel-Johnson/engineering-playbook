@@ -1,0 +1,3 @@
+- In Python packages, __init__.py is the mandatory module.
+- It tells Python that the folder should be treated as a package.
+- It can also be used to initialize package-level code or imports.

@@ -1,0 +1,3 @@
+- Database triggers can make debugging difficult because they run automatically in the background.
+- Too many triggers can reduce database performance and increase complexity.
+- They also make the system harder to maintain and understand.

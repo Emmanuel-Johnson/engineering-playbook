@@ -1,0 +1,3 @@
+- A lambda function can take any number of arguments, just like a normal function.
+- But it can contain only one expression.
+- Example: lambda a, b, c: a + b + c

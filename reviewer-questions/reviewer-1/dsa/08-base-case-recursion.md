@@ -1,0 +1,3 @@
+- A base case is the condition where a recursive function stops calling itself.
+- It prevents infinite recursion and helps the function return a final result.
+- Example: In factorial, when n == 0, the function returns 1.

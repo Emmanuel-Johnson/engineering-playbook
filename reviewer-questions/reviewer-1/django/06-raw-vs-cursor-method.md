@@ -1,0 +1,3 @@
+- raw() is a Django ORM method used to run raw SQL and return model objects.
+- cursor() gives direct database access, where we write full SQL manually and handle results ourselves.
+- Use raw() for model-based queries, and cursor() for complex SQL, updates, or full database control.

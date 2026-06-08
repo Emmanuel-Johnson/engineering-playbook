@@ -1,0 +1,3 @@
+- Scalar functions in SQL work on one value and return one value for each row.
+- They are used to modify or calculate data like text, numbers, or dates.
+- Example: UPPER("hello") returns "HELLO" and ROUND(5.7) returns 6.

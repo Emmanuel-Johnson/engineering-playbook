@@ -1,0 +1,3 @@
+- RDBMS can become slow with very large or complex data.
+- Scaling horizontally is difficult compared to NoSQL databases.
+- Fixed schema makes handling changing or unstructured data harder.

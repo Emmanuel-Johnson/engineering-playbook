@@ -1,0 +1,3 @@
+- else in exception handling runs only if no exception occurs in the try block.
+- It is used for code that should execute only when the program succeeds without errors.
+- This makes the code cleaner and easier to understand.
