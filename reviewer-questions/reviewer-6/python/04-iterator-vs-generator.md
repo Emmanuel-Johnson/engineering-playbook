@@ -1,0 +1,2 @@
+- Iterator: An object used to loop through data one item at a time using __iter__() and __next__().
+- Generator: A simple way to create iterators using yield, which gives values one by one without storing everything in memory.

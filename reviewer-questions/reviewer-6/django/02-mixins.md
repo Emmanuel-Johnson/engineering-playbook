@@ -1,0 +1,3 @@
+- Mixins are small reusable classes that add extra features to other classes using inheritance.
+- They are used to avoid repeating code and usually don’t work as standalone classes.
+- In frameworks like Django, mixins are commonly used to add authentication, permissions, or reusable logic.

@@ -1,19 +1,19 @@
 Python
 
-[ ] duck typing
-[ ] dict, set
-[ ] decorator practical
-[ ] iterator, generator
-[ ] Magic method
-[ ] [1,[2,3],[4,5],6] - Ee list reverse aayit print cheyya with recursion
-[ ] Deepcopy and shallow copy cheyan
-[ ] List of Dictionary values thann athil value vachit ascending order print cheyyan
+[x] duck typing
+[x] dict, set
+[x] decorator practical
+[x] iterator, generator
+[x] Magic method
+[x] Print the list [1, [2,3], [4,5], 6] in reverse order using recursion
+[x] Deepcopy and shallow practical
+[x] Print the list of dictionaries in ascending order based on the values
 
 Django
 
-[ ] Custom middleware’s
-[ ] Mixins
-[ ] Bulk create
+[x] Custom middleware’s
+[x] Mixins
+[x] Bulk create
 
 SQL
 
@@ -28,7 +28,7 @@ SQL
 DSA
 
 [ ] heap sort
-[ ] second largest element list nn recursion vachit find out cheyyan
+[x] Find the second largest element in a list using recursion
 
 React
 

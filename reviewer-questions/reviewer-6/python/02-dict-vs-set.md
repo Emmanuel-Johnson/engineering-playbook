@@ -1,0 +1,3 @@
+- Dictionary (dict) stores data in key-value pairs and allows fast access using keys.
+- Set (set) stores only unique values and automatically removes duplicates.
+- Both are mutable data types and use curly braces {} in Python.
