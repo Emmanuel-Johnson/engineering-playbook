@@ -1,0 +1,3 @@
+- nonlocal is used inside a nested function to modify a variable from the outer function.
+- It allows the inner function to update the outer function’s variable without making it global.
+- Mainly used in closures and nested function logic.

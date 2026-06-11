@@ -1,0 +1,3 @@
+- Context managers are used to manage resources like files, database connections, or locks safely.
+- They automatically handle setup and cleanup using with, so resources are properly closed even if an error occurs.
+- In Python, they are implemented using __enter__() and __exit__() methods.

@@ -1,0 +1,3 @@
+- Reference counting tracks how many variables or objects are pointing to an object in memory.
+- When a new reference is created, the count increases; when a reference is removed, the count decreases.
+- If the count becomes zero, Python automatically deletes the object from memory.

@@ -1,0 +1,3 @@
+- A stack trace is an error report that shows the sequence of function calls before a program crashed.
+- It helps developers find where the error happened and what caused it.
+- It usually shows the file name, line number, and error type.

@@ -29,6 +29,9 @@ Python
 [x] a function to sum integers from a nested list
 [x] print an inverted pyramid
 
+[x] What is monkey patching exactly?
+[x] Write an example program for multiple inheritance with MRO in Python.
+
 Django
 
 [x] What is the difference between `AbstractUser` and `AbstractBaseUser` exactly? 
@@ -49,6 +52,10 @@ Django
 [ ] UDP and TCP
 [ ] Migration commands and it's working
 [ ] Django session
+
+[ ] Which field should be used in a model to upload files?
+[ ] What is abstract model inheritance exactly?
+[ ] Create a view to render an HTML page with context.
 
 SQL
 
@@ -86,6 +93,8 @@ SQL
 [x] 2NF , 3NF
 [x] DDL, DML DCL
 
+[ ] Create a stored procedure to get orders by customer.
+
 DSA
 
 [x] What is the best-case time complexity of Insertion Sort? 
@@ -101,6 +110,8 @@ DSA
 [x] Hash function working concept
 [x] which graph traversal method implements using stack
 [x] Create a max heap and display the element
+
+[ ] What is the degree of a vertex in a graph?
 
 React
 
@@ -124,3 +135,6 @@ React
 [ ] react.memo working concept
 [ ] react.lazy
 [x] create a react component to add two numbers
+
+[ ] What is a controlled component in React exactly?
+[ ] Create a React application using Context API and `useContext`.

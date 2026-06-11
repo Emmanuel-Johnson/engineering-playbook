@@ -1,0 +1,3 @@
+- Currying means converting a function with multiple arguments into a series of functions that take one argument at a time.
+- Each function returns another function until all arguments are received.
+- It helps create reusable and flexible code.

@@ -1,0 +1,3 @@
+- A pure function always gives the same output for the same input.
+- It does not change external data or depend on outside values.
+- Pure functions are predictable, easy to test, and easier to debug.

@@ -1,0 +1,3 @@
+- Monkey patching means changing or adding methods or attributes to a class or object at runtime without modifying the original source code.
+- It is mainly used for testing, fixing behavior temporarily, or extending functionality dynamically.
+- It should be used carefully because it can make code harder to debug and maintain.

@@ -1,0 +1,3 @@
+- __pycache__ is a folder where Python stores compiled bytecode files (.pyc files).
+- It helps Python run programs faster by avoiding recompilation every time.
+- Python creates it automatically when a module is imported or executed.

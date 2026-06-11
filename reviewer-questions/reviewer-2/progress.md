@@ -18,29 +18,29 @@ Python
 [x] What are lambda functions?
 [x] What are *args and **kwargs?
 
-[ ] how reference counting works
-[ ] thread vs process
-[ ] monkey patching
-[ ] need for GIL
-[ ] Python assert statement
-[ ] NameError vs TypeError
-[ ] currying
-[ ] remove each digit one by one recursively
+[x] how reference counting works
+[x] thread vs process
+[x] monkey patching
+[x] need for GIL
+[x] Python assert statement
+[x] NameError vs TypeError
+[x] currying
+[x] remove each digit one by one recursively
 
-[ ] NameError
-[ ] Stack trace
-[ ] Pure functions
-[ ] nonlocal keyword
-[ ] Python context managers
-[ ] assert statement
-[ ] pycache directory
-[ ] Monkey patching
-[ ] Practice more problems
-[ ] Replace "scores" in a dictionary with its average
-[ ] Replace a dictionary key with a calculated value
-[ ] Rotate a list to the right by k places
+[x] NameError
+[x] Stack trace
+[x] Pure functions
+[x] nonlocal keyword
+[x] Python context managers
+[x] assert statement
+[x] pycache directory
+[x] Monkey patching
+[x] Practice more problems
+[x] Replace "scores" in a dictionary with its average
+[x] Replace a dictionary key with a calculated value
+[x] Rotate a list to the right by k places
 
-[ ] longest non-repeating substring
+[x] longest non-repeating substring
 [ ] method overloading in python
 [ ] custom iterator to skip every second element from list
 [ ] duck typing

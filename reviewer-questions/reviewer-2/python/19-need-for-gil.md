@@ -1,0 +1,3 @@
+- GIL (Global Interpreter Lock) allows only one thread to execute Python bytecode at a time in CPython.
+- It is used to make memory management and reference counting safe and simple.
+- Because of GIL, Python threads are not ideal for CPU-heavy tasks, but they work well for I/O tasks.

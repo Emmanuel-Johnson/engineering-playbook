@@ -1,0 +1,3 @@
+- A process is an independent program with its own memory and resources.
+- A thread is a smaller unit inside a process that shares the same memory with other threads.
+- Processes are heavier and slower, while threads are lighter and faster for multitasking.

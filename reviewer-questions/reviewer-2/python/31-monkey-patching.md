@@ -1,0 +1,3 @@
+- Monkey patching means changing or adding methods or attributes to a class or object at runtime without modifying the original source code.
+- It is mainly used to extend or modify behavior dynamically.
+- Changes added to a class affect all its objects, while changes added to one object affect only that object.

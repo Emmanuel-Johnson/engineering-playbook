@@ -1,0 +1,3 @@
+- assert is used to check if a condition is true during debugging.
+- If the condition is false, Python raises an AssertionError.
+- It helps developers catch bugs early and validate assumptions in code.

@@ -1,0 +1,3 @@
+- NameError happens when you use a variable or function name that is not defined.
+- TypeError happens when an operation or function is used with the wrong data type.
+- Example: using an undefined variable gives NameError, while adding a string and integer gives TypeError.

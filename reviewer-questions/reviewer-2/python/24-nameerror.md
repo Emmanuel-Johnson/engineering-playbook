@@ -1,0 +1,3 @@
+- NameError happens when Python cannot find a variable or function name.
+- It usually occurs when a name is misspelled or used before defining it.
+- Example: using print(x) without creating x first.
