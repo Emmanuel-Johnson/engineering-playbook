@@ -1,0 +1,3 @@
+- HTTP OPTIONS is used to check which HTTP methods a server or API supports, like GET, POST, PUT, or DELETE.
+- It helps the client understand allowed operations before sending the actual request.
+- It is commonly used in CORS preflight requests for browser security.

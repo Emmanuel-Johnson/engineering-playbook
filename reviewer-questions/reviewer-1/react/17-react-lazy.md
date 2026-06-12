@@ -1,0 +1,3 @@
+- react.lazy is used for lazy loading components in React.
+- It loads a component only when needed, which improves app performance and reduces initial loading time.
+- It is usually used with Suspense to show a fallback UI while loading.

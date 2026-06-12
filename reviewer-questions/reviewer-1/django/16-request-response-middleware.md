@@ -1,0 +1,2 @@
+- Request-response cycle: Client sends a request to the server, server processes it, and returns a response.
+- Middleware: Middleware runs between request and response to handle tasks like authentication, logging, or security.

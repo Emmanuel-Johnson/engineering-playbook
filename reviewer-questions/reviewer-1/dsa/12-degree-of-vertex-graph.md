@@ -1,0 +1,2 @@
+- The degree of a vertex is the number of edges connected to that vertex in a graph.
+- In a directed graph, we have in-degree (incoming edges) and out-degree (outgoing edges).

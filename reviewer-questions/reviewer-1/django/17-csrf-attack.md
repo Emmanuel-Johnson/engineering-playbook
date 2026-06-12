@@ -1,0 +1,3 @@
+- A CSRF attack tricks a logged-in user into sending unwanted requests to a website without their knowledge.
+- The attacker uses the user’s active session to perform actions like changing passwords or transferring data.
+- We prevent it using CSRF tokens, proper authentication, and secure cookies.

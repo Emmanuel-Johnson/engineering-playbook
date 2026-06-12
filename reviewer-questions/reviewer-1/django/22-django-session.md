@@ -1,0 +1,2 @@
+- Django session is used to store user-specific data on the server between requests.
+- It helps keep users logged in and track information like user ID or cart data using a session ID stored in cookies.

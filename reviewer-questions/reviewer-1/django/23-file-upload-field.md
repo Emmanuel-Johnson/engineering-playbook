@@ -1,0 +1,3 @@
+- Use Django’s FileField to upload files in a model.
+- If the file is specifically an image, use ImageField.
+- Both fields store the file path in the database and save the actual file in media storage.

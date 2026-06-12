@@ -1,0 +1,2 @@
+- In Django, makemigrations creates migration files based on model changes, and migrate applies those changes to the database.
+- Migrations help keep the database structure synced with the models safely and systematically.

@@ -44,18 +44,18 @@ Django
 [x] meta class attributes
 [x] Raw method vs cursor method
 
-[ ] Django form implementation
-[ ] Request response cycle and middleware
-[ ] CSRF attack
-[ ] HTTP 300
-[ ] HTTP OPTIONS
-[ ] UDP and TCP
-[ ] Migration commands and it's working
-[ ] Django session
+[x] Django form implementation
+[x] Request response cycle and middleware
+[x] CSRF attack
+[x] HTTP 300
+[x] HTTP OPTIONS
+[x] UDP and TCP
+[x] Migration commands and it's working
+[x] Django session
 
-[ ] Which field should be used in a model to upload files?
-[ ] What is abstract model inheritance exactly?
-[ ] Create a view to render an HTML page with context.
+[x] Which field should be used in a model to upload files?
+[x] What is abstract model inheritance exactly?
+[x] Create a view to render an HTML page with context.
 
 SQL
 
@@ -93,7 +93,7 @@ SQL
 [x] 2NF , 3NF
 [x] DDL, DML DCL
 
-[ ] Create a stored procedure to get orders by customer.
+[x] Create a stored procedure to get orders by customer.
 
 DSA
 
@@ -111,7 +111,7 @@ DSA
 [x] which graph traversal method implements using stack
 [x] Create a max heap and display the element
 
-[ ] What is the degree of a vertex in a graph?
+[x] What is the degree of a vertex in a graph?
 
 React
 
@@ -132,9 +132,9 @@ React
 [x] How can we handle async actions? 
 [x] Create a component to add two numbers. 
 
-[ ] react.memo working concept
-[ ] react.lazy
+[x] react.memo working concept
+[x] react.lazy
 [x] create a react component to add two numbers
 
-[ ] What is a controlled component in React exactly?
-[ ] Create a React application using Context API and `useContext`.
+[x] What is a controlled component in React exactly?
+[x] Create a React application using Context API and `useContext`.

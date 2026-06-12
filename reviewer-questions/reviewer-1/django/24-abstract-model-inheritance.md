@@ -1,0 +1,3 @@
+- Abstract model inheritance in Django is used to share common fields and methods between multiple models.
+- The abstract model itself does not create a database table.
+- Child models inherit those fields and create their own tables.
