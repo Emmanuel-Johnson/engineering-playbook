@@ -1,0 +1,3 @@
+- Redux Saga is a middleware used to handle side effects like API calls, async tasks, and delays in Redux applications.
+- It uses generator functions to manage async code in a clean and organized way.
+- It helps keep components simple and improves application flow control.

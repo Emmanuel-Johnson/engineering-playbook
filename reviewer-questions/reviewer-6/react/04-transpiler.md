@@ -1,0 +1,3 @@
+- A transpiler converts code from one version or language to another similar language.
+- In JavaScript, tools like Babel convert modern JS or JSX into browser-compatible JavaScript.
+- It helps developers use latest features while supporting older environments.

@@ -17,23 +17,23 @@ Django
 
 SQL
 
-[ ] acid
-[ ] transaction
-[ ] types of trigger
-[ ] cte
-[ ] cross join
-[ ] Trigger
-[ ] CAP 
+[x] acid
+[x] transaction
+[x] types of trigger
+[x] cte
+[x] cross join
+[x] Trigger
+[x] CAP 
 
 DSA
 
-[ ] heap sort
+[x] heap sort
 [x] Find the second largest element in a list using recursion
 
 React
 
-[ ] todo app
-[ ] Error boundary
-[ ] Redux Saga
-[ ] transpiler
-[ ] forwardRef 
+[x] todo app
+[x] Error boundary
+[x] Redux Saga
+[x] transpiler
+[x] forwardRef 

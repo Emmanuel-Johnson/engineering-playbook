@@ -1,0 +1,3 @@
+- CTE (Common Table Expression) is a temporary result set created using the WITH keyword.
+- It helps make complex SQL queries more readable and reusable.
+- CTEs are commonly used for joins, recursion, and breaking large queries into smaller parts.

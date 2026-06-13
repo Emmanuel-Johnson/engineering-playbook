@@ -1,0 +1,3 @@
+- BEFORE Trigger → runs before INSERT, UPDATE, or DELETE.
+- AFTER Trigger → runs after the operation is completed.
+- INSTEAD OF Trigger → replaces the actual operation, mainly used with views.

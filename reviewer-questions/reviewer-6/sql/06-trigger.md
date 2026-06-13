@@ -1,0 +1,2 @@
+- A Trigger is a database object that runs automatically when an event like INSERT, UPDATE, or DELETE happens on a table.
+- It is mainly used for validation, logging, auditing, and maintaining data integrity.

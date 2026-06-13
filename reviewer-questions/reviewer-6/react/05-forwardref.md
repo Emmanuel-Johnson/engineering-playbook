@@ -1,0 +1,3 @@
+- forwardRef in React is used to pass a ref from a parent component to a child component.
+- It lets the parent directly access a child DOM element like an input or button.
+- Commonly used for focus, animations, or integrating with third-party libraries.

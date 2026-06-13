@@ -1,0 +1,3 @@
+- A transaction is a group of database operations treated as one unit.
+- It follows ACID properties to keep data safe and consistent.
+- If one operation fails, the whole transaction is rolled back.

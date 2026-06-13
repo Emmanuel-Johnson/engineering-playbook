@@ -1,0 +1,3 @@
+- Error Boundary is a React component that catches JavaScript errors in child components during rendering.
+- It prevents the whole app from crashing and shows a fallback UI instead.
+- Mainly used to improve app stability and user experience.
