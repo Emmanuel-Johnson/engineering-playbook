@@ -1,0 +1,3 @@
+- == checks if two values are equal.
+- is checks if two variables point to the same object in memory.
+- Use == for value comparison and is mainly for checking None.

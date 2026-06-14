@@ -1,0 +1,3 @@
+- Duck typing in Python means the object type does not matter, only the methods or behavior matter.
+- If an object can do the required action, Python accepts it.
+- Example: if two objects have a start() method, both can be used the same way.

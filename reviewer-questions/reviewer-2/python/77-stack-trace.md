@@ -1,0 +1,2 @@
+- A stack trace shows the sequence of function calls before an error occurred.
+- It helps developers identify where and why the program failed.

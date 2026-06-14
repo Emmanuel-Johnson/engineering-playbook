@@ -1,0 +1,2 @@
+- __pycache__ stores compiled Python bytecode (.pyc files).
+- It helps Python run programs faster by avoiding recompilation.

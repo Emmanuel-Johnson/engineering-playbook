@@ -41,29 +41,29 @@ Python
 [x] Rotate a list to the right by k places
 
 [x] longest non-repeating substring
-[ ] method overloading in python
-[ ] custom iterator to skip every second element from list
-[ ] duck typing
-[ ] class method and static method
+[x] method overloading in python
+[x] custom iterator to skip every second element from list
+[x] duck typing
+[x] class method and static method
 
-[ ] lambda function to return rand number
-[ ] is and ==
-[ ] Python handle environment variables
-[ ] PIP
-[ ] thread vs process
-[ ] Need of GIL
-[ ] for-else Pattern
-[ ] Type Annotations
+[x] lambda function to return rand number
+[x] is and ==
+[x] Python handle environment variables
+[x] PIP
+[x] thread vs process
+[x] Need of GIL
+[x] for-else Pattern
+[x] Type Annotations
 
-[ ] __pycache__  
-[ ] Python’s context managers  
-[ ] Data Class  
-[ ] GIL (Global Interpreter Lock)  
-[ ] Tools for Debugging Python  
-[ ] Pure vs Impure Functions  
-[ ] Stack Trace  
-[ ] Duck Typing  
-[ ] Time methods and operations  
+[x] __pycache__  
+[x] Python’s context managers  
+[x] Data Class  
+[x] GIL (Global Interpreter Lock)  
+[x] Tools for Debugging Python  
+[x] Pure vs Impure Functions  
+[x] Stack Trace  
+[x] Duck Typing  
+[x] Time methods and operations  
 [ ] Flatten list  
 
 Django

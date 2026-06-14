@@ -1,0 +1,2 @@
+- Pure functions always return the same output for the same input and have no side effects.
+- Impure functions can modify external data or depend on changing values.

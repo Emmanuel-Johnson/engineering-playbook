@@ -1,0 +1,2 @@
+- Duck typing means Python checks behavior, not object type.
+- “If it behaves like a duck, Python treats it like a duck.”

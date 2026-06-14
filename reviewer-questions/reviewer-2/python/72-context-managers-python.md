@@ -1,0 +1,2 @@
+- Context managers handle setup and cleanup automatically using with.
+- Commonly used for files, database connections, and locks.

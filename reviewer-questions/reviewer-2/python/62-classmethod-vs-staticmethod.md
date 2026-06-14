@@ -1,0 +1,3 @@
+- Class method uses cls and works with class-level data. It is created using @classmethod.
+- Static method does not use self or cls. It behaves like a normal function inside the class using @staticmethod.
+- Use class methods for class data changes, and static methods for utility/helper functions.

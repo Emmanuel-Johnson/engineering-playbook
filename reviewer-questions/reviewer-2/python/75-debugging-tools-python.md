@@ -1,0 +1,2 @@
+- Common debugging tools are pdb, logging, breakpoints, and IDE debuggers.
+- They help find errors, inspect variables, and trace program flow.

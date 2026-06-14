@@ -1,0 +1,3 @@
+- Type annotations are used to specify the expected data type of variables, function parameters, and return values.
+- They improve code readability and help detect type-related errors early.
+- Python does not enforce them at runtime; they are mainly for developers and tools.

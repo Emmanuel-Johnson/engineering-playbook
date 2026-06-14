@@ -1,0 +1,3 @@
+- Python does not support true method overloading like Java.
+- If multiple methods have the same name, the latest one overrides the previous method.
+- We usually achieve overloading using default arguments or *args.

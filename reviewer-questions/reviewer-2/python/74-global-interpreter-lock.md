@@ -1,0 +1,2 @@
+- GIL allows only one thread to execute Python bytecode at a time.
+- It improves memory safety but limits true multithreading in CPython.

@@ -1,0 +1,3 @@
+- for-else in Python runs the else block only if the loop finishes normally without hitting break.
+- It is mainly used for search or validation logic.
+- If break happens, the else block will not execute.

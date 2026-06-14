@@ -1,0 +1,2 @@
+- A Data Class is used to store data with less boilerplate code.
+- Using @dataclass automatically creates methods like __init__ and __repr__.

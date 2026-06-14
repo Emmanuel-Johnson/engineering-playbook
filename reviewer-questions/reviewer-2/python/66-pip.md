@@ -1,0 +1,3 @@
+- pip is Python’s package manager used to install and manage external libraries.
+- It helps developers easily add tools like Django or NumPy to a project.
+- Example: pip install django installs the Django package.

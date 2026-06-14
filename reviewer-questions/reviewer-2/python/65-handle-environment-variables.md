@@ -1,0 +1,3 @@
+- Environment variables store sensitive or configurable values like API keys and database URLs outside the code.
+- In Python, we access them using the os module, mainly os.getenv() or os.environ.
+- This improves security and makes the application easier to configure across environments.
