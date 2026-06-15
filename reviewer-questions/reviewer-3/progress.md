@@ -95,6 +95,13 @@ Python
 [ ] throwing error 
 [ ] error handling (except)
 
+[ ] asyncio
+[ ] suite
+[ ] := operator 
+[ ] ... 
+[ ] eval()
+[ ] remove the first and last keys from dict (needs improvement)
+
 Django
 
 [ ] usage of permission classes
@@ -158,6 +165,15 @@ Django
 [ ] HTTPS port
 [ ] SSH
 
+[ ] cleaned_data, clean()
+[ ] JWT claims 
+[ ] HTTP 422 vs 400
+[ ] types of pagination
+[ ] object level permissions 
+[ ] formset
+[ ] lookup_field 
+[ ] how reverse proxy hiding server improves security 
+
 SQL
 
 [ ] natural key
@@ -195,6 +211,9 @@ SQL
 [ ] unique full names 
 [ ] projects that haven’t started yet
 
+[ ] performance optimization (read more)
+[ ] profiling 
+[ ] names starting with E and ending with S
 
 DSA
 
@@ -225,6 +244,8 @@ DSA
 [ ] queue using SLL
 [ ] BST
 [ ] check if number contains a digit without using strings 
+
+[ ] identify casing of string (needs improvement)
 
 React
 
@@ -261,3 +282,10 @@ React
 [ ] MemoryRouter 
 [ ] debouncing 
 [ ] StrictMode 
+
+[ ] security of browser storages
+[ ] accessing cookies 
+[ ] resolution vs viewport 
+[ ] event pooling (vague)
+[ ] importance of pure functions in React 
+[ ] reading query params

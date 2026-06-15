@@ -64,7 +64,7 @@ Python
 [x] Stack Trace  
 [x] Duck Typing  
 [x] Time methods and operations  
-[ ] Flatten list  
+[x] Flatten list  
 
 Django
 
