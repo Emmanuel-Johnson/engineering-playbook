@@ -42,6 +42,3 @@ Each section contains notes, concepts, practical exercises, and frequently discu
 * Database Systems
 * Interview Preparation
 * Continuous Learning
-
-```
-```
